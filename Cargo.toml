@@ -9,8 +9,6 @@ keywords = ["cryptography", "ecc", "bch", "no_std"]
 authors = ["Mike Lubinets <lubinetsm@yandex.ru>"]
 version = "0.2.1"
 
-[dev-dependencies]
-rustc-serialize = "0.3"
 
 [features]
 unsafe_indexing = []
